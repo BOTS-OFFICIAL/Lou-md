@@ -5,17 +5,17 @@
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
  <div ="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=blue&center=true&width=900&height=100&lines=Its SHIELD-HERO;Whatsapp+Bug+Bot;Developed+By+BOTS-OFFICIAL" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=blue&center=true&width=900&height=100&lines=Its LOU-MD;Whatsapp+MD+Bot;Developed+By+MAGICAL-K" alt="Typing SVG" /></a>
   
 
-<h1 align="center">S H I E L D H E R O B U G S<br></h1>
+<h1 align="center">L O U M D B O T<br></h1>
 <p align="center">
 <img src="https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7" height="500" , width="800"/>
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
-S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/BOTS-OFFICIAL" target="_blank">BOTS-OFFICIAL</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+L O U  𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/DARK-MODER" target="_blank">DARK-MODER</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 
@@ -24,14 +24,14 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/BOTA-OFFICIAL/followers"><img title="Followers" src="https://img.shields.io/github/followers/bots-official?color=red&style=flat-square"></a>
-<a href="https://github.com/BOTS-OFFICIAL/Shield-Hero-Buggs/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/bots-official/shield-hero-bugs?color=blue&style=flat-square"></a>
-<a href="https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs/network/members"><img title="Forks" src="https://img.shields.io/github/forks/bots-official/shield-hero-bugs?color=red&style=flat-square"></a>
-<a href="https://github.com/BOTS-OFFICIAL/Shield-Hero-BUG/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BOTS-OFFICIAL/Shield-Hero-Bugs?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs"><img title="Open Source" src="https://img.shields.io/badge/Author-Classic%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs/"><img title="Size" src="https://img.shields.io/github/repo-size/BOTS-OFFICIAL/Shield-Hero-Bugs?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2BOTS-OFFICIAL%2FShield-Hero-Bugs&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/DARK-MODER/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARK-MODER?color=red&style=flat-square"></a>
+<a href="https://github.com/DARK-MODER/Lou-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DARK-MODER/Lou-md?color=blue&style=flat-square"></a>
+<a href="https://github.com/DARK-MODER/Lou-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DARK-MODER/Lou-md?color=red&style=flat-square"></a>
+<a href="https://github.com/DARK-MODER/Lou-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DARK-MODER/Lou-md?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/DARK-MODER/Lou-md"><img title="Open Source" src="https://img.shields.io/badge/Author-Classic%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/DARK-MODER/Lou-md/"><img title="Size" src="https://img.shields.io/github/repo-size/DARK-MODER/Lou-md?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2DARK-MODER%2FLou-md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/DARK-MODER/Lou-md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -47,8 +47,8 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-   - [![Github Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BOTS-OFFICIAL) ***(profile)***
-   - [![Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bug) ***(repository)***
+   - [![Github Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dark-moder) ***(profile)***
+   - [![Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DARK-MODER/Lou-md) ***(repository)***
    - [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BSFZGh0YT3K9NHDt4UJmZy) ***(group)***
    - [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V) ***(channel)***
    - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Kentonx-tech)
@@ -61,7 +61,7 @@ S H I E L D 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="http
 # Setup For Deployment 👇
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-***([`Fork REPO`](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs/Fork))***
+***([`Fork REPO`](https://github.com/DARK-MODER/LOU-MD/Fork))***
 
 ## `Generate Pair Code For Session`
 
@@ -86,7 +86,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Create a new app at [Heroku](heroku.com)
 * Add Build packs
 * Connect your heroku with your github
-* Locate SHIELD HERO-BUG
+* Locate LOU-MD
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
@@ -115,7 +115,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs
+git clone https://github.com/DARK-MODER/LOU-MD
 cd Shield Hero Bugs
 yarn install
 npm start
@@ -128,8 +128,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Samue-l1/Shield-Hero-Bugs
-cd Shield Hero Bugs
+git clone https://github.com/DARK-MODER/LOU-MD
+cd LOU-MD
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
@@ -146,17 +146,17 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
  | [![BOTS-OFFICIAL](https://github.com/BOTS-OFFICIAL.png?lenght=50width=50)](https://github.com/BOTS-OFFICIAL)|
 |----|
 | [BOTS-OFFICIAL ](https://github.com/BOTS-OFFICIAL) |
-|  owner |
+|  ACCOUNT 1 |
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-| [![MAGICAL-KX](https://github.com/MAGICAL-KX.png?lenght=50width=50)](https://github.com/MAGICAL-KX)|
+| [![DARK-MOER](https://github.com/DARK-MODER.png?lenght=50width=50)](https://github.com/DARK-MODER)|
 |----|
-| [MAGICAL-KX ](https://github.com/MAGICAL-KX) |
-|  Fixing bugs and editing files |
+| [MAGICAL-KX ](https://github.com/DARK-MODER) |
+|  ACCOUNT 2|
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 </div>
@@ -172,13 +172,13 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
     
 | Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
 |----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
-| [![Owner](https://img.shields.io/badge/Author-BOTOFFICIAL-red.svg)](https://github.com/BOTS-OFFICIAL/) | [![Repository](https://img.shields.io/badge/Repo-ShieldHeroBugs-red.svg)](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs) | [![GitHub forks](https://badgen.net/github/forks/BOTS-OFFICIAL/Shield-Hero-Bugs/)](https://GitHub.com/BOTS-OFFICIL/Shield-Hero-Bugs/network/) | [![GitHub stars](https://badgen.net/github/stars/BOTS-OFFICIAL/Shield-Hero-Bugs)](https://GitHub.com/BOT-OFFICIAL/Shield-Hero-Bugs/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/BOTS-OFFICIAL/Shield-Hero-Bugs.svg)](https://github.com/BOTS-OFFICIAL/Shield-Hero-Bugs/blob/master/LICENSE) 
+| [![Owner](https://img.shields.io/badge/Author-DARK-MODER-red.svg)](https://github.com/DARK-MODER/) | [![Repository](https://img.shields.io/badge/Repo-LOUMD-red.svg)](https://github.com/DARK-MODER/LOU-MD) | [![GitHub forks](https://badgen.net/github/forks/DARK-MODER/LOU-MD/)](https://GitHub.com/DARK-MODER/LOU-MD/network/) | [![GitHub stars](https://badgen.net/github/stars/DARK-MODER/LOU-MD](https://GitHub.com/DARK-MODERS/LOU-MD/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/DARK-MODER/LOU-MD.svg)](https://github.com/DARK-MODER/LOU-MD/blob/master/LICENSE) 
 
 | Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
 |---------------------|---------------------|---------------------|
-| [![GitHub release](https://img.shields.io/github/release/BOTS-OFFICIAL/Shield-Hero-Bugs.svg)](https://GitHub.com/BOTS-OFFICIAL/Shield-Hero-Bugs/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/BOTS-OFFICIAL/Shield-Hero-Bugs)](https://GitHub.com/BOTS-OFFICIAL/Shield-Hero-Bugs/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/BOTS-OFFICIAL/Shield-Hero-Bugs/graphs/commit-activity) |
+| [![GitHub release](https://img.shields.io/github/release/DARK-MODER/LOU-MD.svg)](https://GitHub.com/DARK-MODER/LOU-MD/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/DARK-MODER/LOU-MD)](https://GitHub.com/DARK-MODER/LOU-MD/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/DARK-MODER/LOU-MD/graphs/commit-activity) |
 
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=BOTS-OFFICIAL/Shield-Hero-Bugs)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=BOTS-OFFICIAL/Shield-Hero-Bugs)
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&DARK-MODER/LOU-MD)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=DARK-MODER/LOU-MD)
 
 </div>
 </details>
